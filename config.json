@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "CarRepairManagementSystemMdf": "Server=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Minwoo Park\\source\\repos\\Assignment2_MinWooPark\\AppData\\CarRepairManagementSystem.mdf;Trusted_Connection=Yes;"
+
+  }
+
+}
